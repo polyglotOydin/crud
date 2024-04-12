@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+   .align-elements {
+      @apply mx-auto w-full max-w-7xl px-5
+   }
+}
